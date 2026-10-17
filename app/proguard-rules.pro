@@ -1,0 +1,2 @@
+-keep class t2s.** { *; }
+-keep class go.** { *; }

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tun2Socks</string>
+    <string name="notif_channel">VPN status</string>
+    <string name="status_connecting">Connecting…</string>
+    <string name="status_protected">Protected</string>
+    <string name="action_disconnect">Disconnect</string>
+</resources>
